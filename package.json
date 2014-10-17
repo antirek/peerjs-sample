@@ -1,0 +1,22 @@
+{
+  "name": "peerjs-sample",
+  "version": "1.0.0",
+  "description": "peerjs-sample =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antirek/peerjs-sample.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antirek/peerjs-sample/issues"
+  },
+  "homepage": "https://github.com/antirek/peerjs-sample",
+  "dependencies": {
+    "peer": "^0.2.7"
+  }
+}
